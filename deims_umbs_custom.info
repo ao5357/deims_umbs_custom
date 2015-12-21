@@ -1,0 +1,6 @@
+name = DEIMS UMBS Custom Migration
+description = Migration of UMBS data from Drupal 6 to 7.
+core = 7.x
+
+; Register migrate classes.
+;files[] = migration/UMBSContentBlogMigration.php

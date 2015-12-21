@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * @file
+ * Functionality related to the migrate scripts declared by this module.
+ */
